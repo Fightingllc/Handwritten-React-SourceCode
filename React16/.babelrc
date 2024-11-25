@@ -1,0 +1,12 @@
+{
+    "plugins": [
+      [
+        "@babel/plugin-transform-react-jsx",
+        // {
+        //   "throwIfNamespace": false, // defaults to true
+        //   "runtime": "automatic", // defaults to classic 经典版
+        //   "importSource": "custom-jsx-library" // defaults to react
+        // }
+      ]
+    ]
+  }
